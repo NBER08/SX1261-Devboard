@@ -1,0 +1,37 @@
+{
+  "part_name": "file",
+  "library_name": "Project_Components",
+  "symbol_library_name": "Project_Components",
+  "footprint_library_name": "Project_Components",
+  "project_root": "/home/nber08/Documents/SX1261-Devboard/Devboard",
+  "source_zip": "/home/nber08/Downloads/Wio-SX1262_symbol_and_package_file.zip",
+  "imported_at": "2026-05-22T14:06:50",
+  "imported_assets": {
+    "selected_symbol_library": "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.kicad_sym",
+    "selected_footprint_library": "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.pretty",
+    "symbol_libraries": [],
+    "source_symbol_libraries": [],
+    "merged_symbols": [],
+    "footprints": [],
+    "models_3d": [],
+    "datasheets": [],
+    "source_zip": "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/source_zips/file_Wio-SX1262_symbol_and_package_file.zip",
+    "metadata": null,
+    "3d_path_fix": {
+      "updated_footprints": [],
+      "skipped_footprints": [],
+      "available_models": [],
+      "model_matches": []
+    },
+    "library_table_update": {
+      "footprint_table_updated": false,
+      "symbol_tables_updated": [],
+      "symbol_tables_skipped": []
+    },
+    "symbol_footprint_link": [],
+    "backups": [
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/backups/2026-05-22_14-06-50/fp-lib-table",
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/backups/2026-05-22_14-06-50/sym-lib-table"
+    ]
+  }
+}

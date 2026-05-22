@@ -1,0 +1,86 @@
+{
+  "part_name": "QEAA",
+  "library_name": "Project_Components",
+  "symbol_library_name": "Project_Components",
+  "footprint_library_name": "Project_Components",
+  "project_root": "/home/nber08/Documents/SX1261-Devboard/Devboard",
+  "source_zip": "/home/nber08/Downloads/ul_NPM1300-QEAA-R7 (1).zip",
+  "imported_at": "2026-05-22T14:36:39",
+  "imported_assets": {
+    "selected_symbol_library": "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.kicad_sym",
+    "selected_footprint_library": "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.pretty",
+    "symbol_libraries": [
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.kicad_sym"
+    ],
+    "source_symbol_libraries": [
+      "KiCADv6/2026-05-19_19-41-51.kicad_sym"
+    ],
+    "merged_symbols": [
+      {
+        "target_symbol_library": "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.kicad_sym",
+        "merged_symbol_names": [
+          "NPM1300-QEAA-R7"
+        ],
+        "replaced_existing_symbols": [],
+        "updated": true,
+        "message": "Merged 1 symbol(s)."
+      }
+    ],
+    "footprints": [
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.pretty/QFN32_5X5_NOR-L.kicad_mod",
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.pretty/QFN32_5X5_NOR-M.kicad_mod",
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.pretty/QFN32_5X5_NOR.kicad_mod"
+    ],
+    "models_3d": [],
+    "datasheets": [],
+    "source_zip": "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/source_zips/QEAA_ul_NPM1300-QEAA-R7 (1).zip",
+    "metadata": null,
+    "3d_path_fix": {
+      "updated_footprints": [],
+      "skipped_footprints": [
+        "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.pretty/QFN32_5X5_NOR-L.kicad_mod",
+        "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.pretty/QFN32_5X5_NOR-M.kicad_mod",
+        "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.pretty/QFN32_5X5_NOR.kicad_mod"
+      ],
+      "available_models": [],
+      "model_matches": []
+    },
+    "library_table_update": {
+      "footprint_table_updated": false,
+      "symbol_tables_updated": [],
+      "symbol_tables_skipped": [
+        "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.kicad_sym"
+      ]
+    },
+    "symbol_footprint_link": [
+      {
+        "symbol_library": "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.kicad_sym",
+        "updated": true,
+        "symbol_name": "NPM1300-QEAA-R7",
+        "default_footprint": "Project_Components:QFN32_5X5_NOR",
+        "footprint_filters": [
+          "Project_Components:QFN32_5X5_NOR-L",
+          "Project_Components:QFN32_5X5_NOR-M",
+          "Project_Components:QFN32_5X5_NOR"
+        ],
+        "ki_fp_filters_value": "Project_Components:QFN32_5X5_NOR-L Project_Components:QFN32_5X5_NOR-M Project_Components:QFN32_5X5_NOR",
+        "filter_mode": "exact",
+        "include_default_in_filters": true,
+        "available_footprints": [
+          "Project_Components:QFN32_5X5_NOR-L",
+          "Project_Components:QFN32_5X5_NOR-M",
+          "Project_Components:QFN32_5X5_NOR"
+        ]
+      }
+    ],
+    "backups": [
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/backups/2026-05-22_14-36-39/libraries/Project_Components.kicad_sym",
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/backups/2026-05-22_14-36-39/libraries/Project_Components.kicad_sym",
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/backups/2026-05-22_14-36-39/libraries/Project_Components.pretty/QFN32_5X5_NOR-L.kicad_mod",
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/backups/2026-05-22_14-36-39/libraries/Project_Components.pretty/QFN32_5X5_NOR-M.kicad_mod",
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/backups/2026-05-22_14-36-39/libraries/Project_Components.pretty/QFN32_5X5_NOR.kicad_mod",
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/backups/2026-05-22_14-36-39/fp-lib-table",
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/backups/2026-05-22_14-36-39/sym-lib-table"
+    ]
+  }
+}
