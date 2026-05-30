@@ -638,7 +638,9 @@
     (property "Value" "E73-2G4M08S1C" (id 1) (at -15.24 -25.4 0)
       (effects (font (size 1.27 1.27)) (justify bottom left))
     )
-    
+    (property "Footprint" "E73-2G4M08S1C:E73-2G4M08S1C" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
     (property "MF" "EBYTE" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
@@ -662,14 +664,6 @@
     )
     (property "Check_prices" "https://www.snapeda.com/parts/E73-2G4M08S1C/EBYTE/view-part/?ref=eda" (id 11) (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
-    )
-    (property "Footprint" "Project_Components:E73-2G4M08S1C"
-      (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "ki_fp_filters" "Project_Components:E73-2G4M08S1C"
-      (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "E73-2G4M08S1C_1_0"
       (rectangle (start -15.24 -22.86) (end 2.54 20.32)

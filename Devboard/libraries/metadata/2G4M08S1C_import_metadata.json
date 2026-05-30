@@ -1,0 +1,92 @@
+{
+  "part_name": "2G4M08S1C",
+  "library_name": "Project_Components",
+  "symbol_library_name": "Project_Components",
+  "footprint_library_name": "Project_Components",
+  "project_root": "/home/nber08/Documents/SX1261-Devboard/Devboard",
+  "source_zip": "/home/nber08/Downloads/E73-2G4M08S1C.zip",
+  "imported_at": "2026-05-30T15:22:06",
+  "imported_assets": {
+    "selected_symbol_library": "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.kicad_sym",
+    "selected_footprint_library": "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.pretty",
+    "symbol_libraries": [
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.kicad_sym"
+    ],
+    "source_symbol_libraries": [
+      "E73-2G4M08S1C.kicad_sym"
+    ],
+    "merged_symbols": [
+      {
+        "target_symbol_library": "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.kicad_sym",
+        "merged_symbol_names": [
+          "E73-2G4M08S1C"
+        ],
+        "replaced_existing_symbols": [
+          "E73-2G4M08S1C"
+        ],
+        "updated": true,
+        "message": "Merged 1 symbol(s)."
+      }
+    ],
+    "footprints": [
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.pretty/E73-2G4M08S1C.kicad_mod"
+    ],
+    "models_3d": [
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/3dmodels/E73-2G4M08S1C.step"
+    ],
+    "datasheets": [],
+    "source_zip": "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/source_zips/2G4M08S1C_E73-2G4M08S1C.zip",
+    "metadata": null,
+    "3d_path_fix": {
+      "updated_footprints": [
+        "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.pretty/E73-2G4M08S1C.kicad_mod"
+      ],
+      "skipped_footprints": [],
+      "available_models": [
+        "E73-2G4M08S1C.step"
+      ],
+      "model_matches": [
+        {
+          "footprint": "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.pretty/E73-2G4M08S1C.kicad_mod",
+          "model": "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/3dmodels/E73-2G4M08S1C.step",
+          "score": 100
+        }
+      ]
+    },
+    "library_table_update": {
+      "footprint_table_updated": false,
+      "symbol_tables_updated": [],
+      "symbol_tables_skipped": [
+        "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.kicad_sym"
+      ]
+    },
+    "symbol_footprint_link": [
+      {
+        "symbol_library": "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/Project_Components.kicad_sym",
+        "updated": true,
+        "symbol_name": "E73-2G4M08S1C",
+        "default_footprint": "Project_Components:E73-2G4M08S1C",
+        "footprint_filters": [
+          "Project_Components:E73-2G4M08S1C"
+        ],
+        "ki_fp_filters_value": "Project_Components:E73-2G4M08S1C",
+        "filter_mode": "exact",
+        "include_default_in_filters": true,
+        "available_footprints": [
+          "Project_Components:E73-2G4M08S1C"
+        ]
+      }
+    ],
+    "backups": [
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/backups/2026-05-30_15-22-06/libraries/source_zips/2G4M08S1C_E73-2G4M08S1C.zip",
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/backups/2026-05-30_15-22-06/libraries/Project_Components.kicad_sym",
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/backups/2026-05-30_15-22-06/libraries/3dmodels/E73-2G4M08S1C.step",
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/backups/2026-05-30_15-22-06/libraries/Project_Components.pretty/E73-2G4M08S1C.kicad_mod",
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/backups/2026-05-30_15-22-06/libraries/Project_Components.kicad_sym",
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/backups/2026-05-30_15-22-06/libraries/Project_Components.pretty/E73-2G4M08S1C.kicad_mod",
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/backups/2026-05-30_15-22-06/fp-lib-table",
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/backups/2026-05-30_15-22-06/sym-lib-table",
+      "/home/nber08/Documents/SX1261-Devboard/Devboard/libraries/backups/2026-05-30_15-22-06/libraries/metadata/2G4M08S1C_import_metadata.json"
+    ]
+  }
+}
